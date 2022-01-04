@@ -30,8 +30,5 @@ Here are some ideas to get you started:
   <a href="https://github.com/derekwin">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derekwin&layout=compact" />
   </a>
-  <a href="https://github.com/derekwin">
-  <img src="https://activity-graph.herokuapp.com/graph?username=derekwin&theme=react-dark" />
-  </a>
 </p>
 </div>
