@@ -24,9 +24,6 @@ Here are some ideas to get you started:
 
 <div>
 <p align="center">
- /** <a href="https://github.com/derekwin">
-  <img src="https://github-readme-stats.vercel.app/api?username=derekwin&show_icons=true&theme=default&hide=contribs,issues"/>
-  </a> **/ 
   <a href="https://github.com/derekwin">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derekwin&layout=compact" />
   </a>
