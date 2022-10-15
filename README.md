@@ -6,7 +6,7 @@
 - 🤔 I am a passionate and self-motivated person for technology and research.I am actively seeking a PhD position(Fall 2024) for further research on networks and artificial intelligence algorithms.
 - 🌈 Be my friend? Jacelau@outlook.com
 - 👯 Have a good day! :)
-- https://muselink.cc/seclee
+- I've been mainly maintaining a repository for network research lately. https://github.com/NetExperimentEasy
 
 
 <!--
