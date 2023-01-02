@@ -18,3 +18,9 @@
 </p>
 </div>
 -->
+
+The deep reinforcement learning research environment for congestion control has been developed and improved (including the xquic based interface and test program, the parallel network training ground based on the network simulator, and the gym api based reinforcement learning environment). If you are interested in conducting research with me, please email me.
+
+TODO ing
+- [ ] Robust and friendly congestion control algorithm based on deep reinforcement learning.
+- [ ] ooquic : Quic protocol implementation (golang) that supports plug-in congestion control and is friendly to extensions and new features.
