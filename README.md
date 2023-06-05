@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - ⚡ I am studying for a master's degree at Changchun University of Science and Technology.
-- 🔭 My research interests are network protocols (multi-path transmission protocols, congestion control algorithms) and artificial intelligence algorithms (how artificial intelligence technology can empower networks, DRL, MARL etc.).
+- 🔭 My research interests are network protocols (multi-path transport protocol, congestion control algorithms) and artificial intelligence algorithms (how artificial intelligence technology can empower networks, DRL, MARL etc.).
 - 🌱 Before my masters, I was an independent full stack developer (django, fastapi, vue, flutter) and web security CTFer. My main languages now are Python, C and Go.
 - 🤔 I am a passionate and self-motivated person for technology and research.I am actively seeking a PhD or Job position(Fall 2024).
 - 🌈 Be my friend? Jacelau@outlook.com
