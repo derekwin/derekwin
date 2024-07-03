@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-- ⚡ I am studying for a master's degree at Changchun University of Science and Technology.
-- 🔭 My research interests are network protocols (multi-path transport protocol, congestion control algorithms) and artificial intelligence algorithms (how artificial intelligence technology can empower networks, DRL, MARL etc.).
-- 🌱 Before my masters, I was an independent full stack developer (django, fastapi, vue, flutter) and web security CTFer. My main languages now are Python, C and Go.
-- 🤔 I am a passionate and self-motivated person for technology and research.~I am actively seeking a PhD or Job position(Fall 2024)~ : ).
-- 🌈 Be my friend? Jacelau@outlook.com
-- 👯 Have a good day! :)
-- I've been mainly maintaining a repository for network research lately. https://github.com/NetExperimentEasy
-
+- ⚡ I am a first-year D.Eng student at Shandong University, and I received my master's degree from Changchun University of Science and Technology in 2024.
+- ⚡ My research interests include CloudNative and High-Performance Communication Network Technology for Data Centers.
+- 🔭 During my master's studies, my research focused on network protocols (such as multi-path transport protocol and congestion control algorithms) and artificial intelligence algorithms (including how AI technology can empower networks, DRL, MARL, etc.). I have primarily maintained a repository for network research: [GitHub Repository](https://github.com/NetExperimentEasy).
+- 🔭 Before my master's, I worked as an independent full stack developer (using Django, FastAPI, Vue, and Flutter) and participated in web security CTFs. My main programming languages are Python, C, and Go.
+- 🤔 I am also an open source contributor to OpenEuler#sig-high-performance-network and Kmesh.
+- 🌱 I am passionate and self-motivated when it comes to technology and research.
+- 🌈 Want to be friends? Contact me at Jacelau@outlook.com
+- 👯 Have a great day! :)
 
 <!--
 <div>
@@ -19,6 +19,6 @@
 </div>
 -->
 
-TODO list
-- [x] Robust and friendly congestion control algorithm based on deep reinforcement learning. I have implemented a robust reinforcement learning-based congestion control scheme on both tcp and xquic protocols, and have derived a complete set of software and tools for research in this area. If you are interested, feel free to contact me.
+History:
+- [x] Robust and friendly congestion control algorithm based on deep reinforcement learning. I have implemented a robust reinforcement learning-based congestion control scheme on both tcp and xquic protocols, and have derived a complete set of software and tools for research in this area. If you are interested, feel free to contact me and admins of https://github.com/NetExperimentEasy.
 - [ ] more...
